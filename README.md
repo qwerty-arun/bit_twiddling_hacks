@@ -1,1 +1,2 @@
-# bit_twiddling_hacks
+# Bit Twiddling Hacks
+- [Website](https://graphics.stanford.edu/~seander/bithacks.html)
